@@ -4,11 +4,8 @@ Application Android en Kotlin avec Jetpack Compose qui exploite une API REST pub
 
 **API :** https://api.attackontitanapi.com/
 
----
-
 ![App screenshot](screenshot.png)
 
----
 
 ## Features
 
@@ -17,7 +14,6 @@ Application Android en Kotlin avec Jetpack Compose qui exploite une API REST pub
 - Écran de détail complet
 - Gestion des états Loading / Success / Error avec bouton Réessayer
 
----
 
 ## Structure du projet
 
